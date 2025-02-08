@@ -1,0 +1,87 @@
+body {
+    font-family: "Bebas Neue", sans-serif; /* Utilise la police Bebas Neue */
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #444; /* Fond gris foncé */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+    margin: 15px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #444;
+    color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+#about {
+    position: relative; /* Position relative pour placer la photo */
+    background-color: #f0f0f0; /* Fond gris (ajuste si nécessaire) */
+    padding: 20px; /* Espacement intérieur */
+}
+
+.profile-pic {
+    width: 100px; /* Largeur de l'image */
+    height: 100px; /* Hauteur de l'image pour la rendre carrée */
+    border-radius: 5%; /* Bords arrondis (ajuste ou enlève si pas voulu) */
+    position: absolute; /* Position absolue pour placer en haut à droite */
+    top: 20px; /* Espace du haut */
+    right: 20px; /* Espace à droite */
+}
+
+.icon {
+    width: 20px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+.school-level {
+    font-size: 1.5em; /* Augmente la taille de la police */
+    font-weight: bold; /* Met le texte en gras */
+}
+
+.school-details {
+    font-size: 1em; /* Taille normale pour les détails */
+    margin-left: 20px; /* Indentation pour les détails */
+}
+
+.icon2 {
+    width: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+}
