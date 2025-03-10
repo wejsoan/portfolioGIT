@@ -1,5 +1,5 @@
 body {
-    font-family: "Bebas Neue", sans-serif; /* Utilise la police Bebas Neue */
+    font-family: "Bebas Neue", sans-serif;
     background-color: #f0f0f0;
     color: #333;
     margin: 0;
@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #444; /* Fond gris foncé */
+    background-color: #444;
     color: white;
     padding: 20px;
     text-align: center;
@@ -51,18 +51,18 @@ footer {
 }
 
 #about {
-    position: relative; /* Position relative pour placer la photo */
-    background-color: #f0f0f0; /* Fond gris (ajuste si nécessaire) */
-    padding: 20px; /* Espacement intérieur */
+    position: relative;
+    background-color: #f0f0f0;
+    padding: 20px;
 }
 
 .profile-pic {
-    width: 100px; /* Largeur de l'image */
-    height: 100px; /* Hauteur de l'image pour la rendre carrée */
-    border-radius: 5%; /* Bords arrondis (ajuste ou enlève si pas voulu) */
-    position: absolute; /* Position absolue pour placer en haut à droite */
-    top: 20px; /* Espace du haut */
-    right: 20px; /* Espace à droite */
+    width: 100px;
+    height: 100px;
+    border-radius: 5%;
+    position: absolute;
+    top: 20px;
+    right: 20px;
 }
 
 .icon {
@@ -71,13 +71,13 @@ footer {
     margin-right: 10px;
 }
 .school-level {
-    font-size: 1.5em; /* Augmente la taille de la police */
-    font-weight: bold; /* Met le texte en gras */
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 .school-details {
-    font-size: 1em; /* Taille normale pour les détails */
-    margin-left: 20px; /* Indentation pour les détails */
+    font-size: 1em;
+    margin-left: 20px;
 }
 
 .icon2 {
